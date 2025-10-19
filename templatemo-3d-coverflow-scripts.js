@@ -78,6 +78,10 @@ https://templatemo.com/tm-595-3d-coverflow
             {
                 title: "Rizky Production Suplier Beras",
                 description: "Menyediakan beras berkualitas tinggi"
+            },
+            {
+                title: "Rizky Production Multimedia Live Streaming",
+                description: "Menyediakan layanan live streaming multiplatform"
             }
             
         ];
